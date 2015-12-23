@@ -7,3 +7,7 @@
 - react-redux 3.x
 - immutable
 - redux-immutablejs
+
+## License
+
+MIT
