@@ -1,5 +1,5 @@
-import counter from './counter';
+import zhihu from './zhihu'
 
 export {
-  counter
-};
+  zhihu
+}

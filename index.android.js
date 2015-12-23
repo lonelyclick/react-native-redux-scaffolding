@@ -1,10 +1,4 @@
-'use strict';
+import React, { AppRegistry } from 'react-native'
+import Index from './app/Index'
 
-import React from 'react-native';
-import App from './app/containers/app';
-
-var {
-  AppRegistry
-} = React;
-
-AppRegistry.registerComponent('ReactNativeScaffolding', () => App);
+AppRegistry.registerComponent('ReactNativeScaffolding', () => Index)
